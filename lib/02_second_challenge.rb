@@ -13,5 +13,4 @@ def second_challenge
      :heronie_friends => []
       }
     }
-  }
 end
